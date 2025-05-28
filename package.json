@@ -1,0 +1,24 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sidhanth-Mandal/Whatsapp-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sidhanth-Mandal/Whatsapp-Bot/issues"
+  },
+  "homepage": "https://github.com/Sidhanth-Mandal/Whatsapp-Bot#readme",
+  "description": "",
+  "dependencies": {
+    "baileys": "^6.7.18",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
